@@ -1,4 +1,4 @@
-# Ex.No: 7  Logic Programming –  Logic Circuit Design
+7y# Ex.No: 7  Logic Programming –  Logic Circuit Design
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
@@ -39,7 +39,7 @@ halfadder(A,B,Sum,Carry):-
 
 ### Output:
 
-![Uploading image.png…]()
+![image](https://github.com/SandeepaNagaraj/AI_Lab_2023-24/assets/113017853/fe3fe567-2dc6-48ed-9830-2c72a86ea796)
 
 
 ### Result:
