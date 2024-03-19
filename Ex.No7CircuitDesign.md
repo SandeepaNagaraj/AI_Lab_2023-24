@@ -1,4 +1,4 @@
-7y# Ex.No: 7  Logic Programming –  Logic Circuit Design
+# Ex.No: 7  Logic Programming –  Logic Circuit Design
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
