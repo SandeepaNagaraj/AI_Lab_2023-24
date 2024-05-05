@@ -60,11 +60,16 @@ app.launch(share=True)
 
 
 ### Output:
-##1.Dataset
+## 1.Dataset
+
 ![image](https://github.com/SandeepaNagaraj/AI_Lab_2023-24/assets/113017853/05887a4c-0fb7-4e5d-8d7a-b5fa800143f7)
-##2.Accuracy
+
+## 2.Accuracy
+
 ![image](https://github.com/SandeepaNagaraj/AI_Lab_2023-24/assets/113017853/431761f2-3b1c-4b9c-81aa-1ec8ad6a3ab6)
-3.Output
+
+## 3.Output
+
 ![image](https://github.com/SandeepaNagaraj/AI_Lab_2023-24/assets/113017853/d2eff3be-b1dd-44eb-93b9-b6f397130a5e)
 
 
